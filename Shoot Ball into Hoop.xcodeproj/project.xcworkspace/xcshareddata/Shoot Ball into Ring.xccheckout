@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1C34376-8E44-4237-A3B4-38451125CA9A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Shoot Ball into Ring</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>704DFEF3-5560-4D60-B286-D2C3A9674D38</key>
+		<string>https://github.com/randym32/Ball-into-Ring.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Shoot Ball into Ring.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>704DFEF3-5560-4D60-B286-D2C3A9674D38</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/randym32/Ball-into-Ring.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>704DFEF3-5560-4D60-B286-D2C3A9674D38</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>704DFEF3-5560-4D60-B286-D2C3A9674D38</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ball into Hoop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
