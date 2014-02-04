@@ -112,7 +112,7 @@ Here is a brute force technique to finding a suitable angle.  Use a 'for' loop w
 When done iterating, return the best angle.
 
 
-I'm not going to get explicit steps how to make this algebra, nor am I going to give explicit steps on how to code it.
+I'm not going to give explicit steps how to make this algebra, nor am I going to give explicit steps on how to code it.
 That's _your_ job.
 
 
