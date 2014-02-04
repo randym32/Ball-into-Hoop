@@ -50,7 +50,7 @@ The first step is diagram the basic event that is happening: the who's, the when
 The objective is to shoot a ball to the hoop on the wall.  So the "who's" are a ball and a hoop.
 The "where" is the place they hit each other.  And the "when" is the point in time the hit each other:
 
-![Shooting the ball to the hoop]("ball to wall.png" "Shooting the ball to the hoop")
+![Shooting the ball to the hoop](ball to wall.png "Shooting the ball to the hoop")
 
 
 #### Step 2: Describe each of the objects
@@ -59,7 +59,7 @@ The "where" is the place they hit each other.  And the "when" is the point in ti
 
 The next step is to describe the ball and it's flight parameters in a "parameter diagram":
 
-![Ball parameter diagram]("ball parameters.png" "The ball's parameter diagram")
+![Ball parameter diagram](ball parameters.png "The ball's parameter diagram")
 
 This describes the balls straight-line flight at angle from the point it was shot.  (We'll add gravity in next)
 The input to modelling the ball is it's time in the flight, and the result is the location after it's flown.
@@ -70,7 +70,7 @@ The input to modelling the ball is it's time in the flight, and the result is th
 
 Now that we've described the basic ball, the next step is describe the forces on the ball, using a "free-body diagram":
 
-![Ball free body diagram]("ball freebody.png" "Ball free body diagram")
+![Ball free body diagram](ball freebody.png "Ball free body diagram")
 
 This diagram is used to help work out all of the forces acting on the ball.  The first step is to draw the actions by
 the ball, and then fill in with the forces that act on the ball.  (In later projects we'll see how some of the forces
@@ -85,7 +85,7 @@ the next step.
 Once the free-body diagram has been fleshed-out, the next step is to update the parameter diagram with the added
 forces and how they affect the ball's behaviour:
 
-![Ball parameter diagram]("ball parameters full.png" "The ball's parameter diagram")
+![Ball parameter diagram](ball parameters full.png "The ball's parameter diagram")
 
 
 The gravity force was added to the diagram in a lower box (for things that act on an object all the time, or very quickly).
